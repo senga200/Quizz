@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "question 1",
+    option1: "reponse 1",
+    option2: "reponse 2",
+    option3: "reponse 3",
+    option4: "reponse 4",
+    answer: 1,
+  },
+  {
+    question: "question 2",
+    option1: "reponse 1",
+    option2: "reponse 2",
+    option3: "reponse 3",
+    option4: "reponse 4",
+    answer: 4,
+  },
+  {
+    question: "question 3",
+    option1: "reponse 1",
+    option2: "reponse 2",
+    option3: "reponse 3",
+    option4: "reponse 4",
+    answer: 1,
+  },
+  {
+    question: "question 4",
+    option1: "reponse 1",
+    option2: "reponse 2",
+    option3: "reponse 3",
+    option4: "reponse 4",
+    answer: 3,
+  },
+  {
+    question: "question 5",
+    option1: "reponse 1",
+    option2: "reponse 2",
+    option3: "reponse 3",
+    option4: "reponse 4",
+    answer: 2,
+  },
+];
